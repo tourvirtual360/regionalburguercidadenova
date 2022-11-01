@@ -3,15 +3,17 @@
 ## Tour
 
 ### Description
+tour.description = Cidade Nova 
 
 ### Title
-tour.name = Sem Título 15
+tour.name = RegionalBurguer
 
 ## Skin
 
 ### Button
 Button_212ECDA6_3058_7808_41B7_D72316B92FE1.label = FAÇA SEU PEDIDO
-Button_212ECDA6_3058_7808_41B7_D72316B92FE1_mobile.label = FAÇA SEU PEDIDO
+Button_212ECDA6_3058_7808_41B7_D72316B92FE1_mobile.label = UND CIDADE NOVA
+Button_3C53E660_314D_46AF_41B5_60B2A0D64225_mobile.label = FAÇA SEU PEDIDO
 
 ## Media
 
@@ -31,7 +33,7 @@ LinkBehaviour_2302E583_30F8_6809_41A0_E96B061A133A.source = https://wa.link/7sy7
 LinkBehaviour_23441043_30F9_E808_41C0_519FBCEA89CC.source = https://www.instagram.com/regionalburger/
 LinkBehaviour_23C9E2BA_30F8_687B_41C2_DCC2059B14E0.source = https://wa.link/7sy7um
 LinkBehaviour_23E2F80A_30F8_1818_41AB_DB5061B8AF59.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
-LinkBehaviour_23FE74B1_30F8_2808_41BE_FA893752C5BA.source = https://wa.link/7sy7um
 LinkBehaviour_23FE84AC_30F8_2818_41B5_B6E3C9156157.source = https://wa.link/7sy7um
 LinkBehaviour_23FEB4AF_30F8_2818_41BB_5B4505B21F65.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
 LinkBehaviour_23FF44AE_30F8_2818_41AD_DF04C55A782C.source = https://www.instagram.com/regionalburger/
+LinkBehaviour_3C6E266B_314D_46B1_41B8_8E895BB19F61.source = https://wa.link/7sy7um

@@ -1,8 +1,8 @@
 {
- "name": "Sem Título 15",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
+ "name": "RegionalBurguer",
+ "description": "Cidade Nova ",
  "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF"
 }
