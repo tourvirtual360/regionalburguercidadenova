@@ -3,16 +3,15 @@
 ## Tour
 
 ### Description
-tour.description = Cidade Nova
 
 ### Title
-tour.name = Regional Burguer
+tour.name = Sem Título 15
 
 ## Skin
 
 ### Button
-Button_3CCA7BE7_2EF0_4F1D_41BC_6ED4A5F503C3.label = FAÇA SEU PEDIDO
-Button_3CCA7BE7_2EF0_4F1D_41BC_6ED4A5F503C3_mobile.label = FAÇA SEU PEDIDO
+Button_212ECDA6_3058_7808_41B7_D72316B92FE1.label = FAÇA SEU PEDIDO
+Button_212ECDA6_3058_7808_41B7_D72316B92FE1_mobile.label = FAÇA SEU PEDIDO
 
 ## Media
 
@@ -22,14 +21,17 @@ panorama_31F4F4F3_2546_6757_4173_6F38DA9CA24D.label = FOTO_3145-art-width-9000px
 panorama_31F6192B_2542_AEF6_41A0_B866BD542C0A.label = FOTO_3148-art-width-9000px
 panorama_31F6B5C3_2545_E1B7_41B7_7F54F0399A82.label = FOTO_3146-art-width-9000px
 panorama_31F74BFF_2545_A14F_41BE_34B920257DEB.label = FOTO_3147-art-width-9000px
-video_3A775A79_2F30_49F4_41BB_615B9536D2E3.label = IMG_5259
+video_3EBBB56F_3068_2819_41B4_4DED0432EEEC.label = IMG_5259
+video_3F641472_3078_2808_41AF_5FA93808B5DB.label = videoplayback (online-video-cutter.com)
 
 ## Action
 
 ### URL
-LinkBehaviour_3A1E7EE4_2EF7_C913_41C1_B5F9FD09C29B.source = https://wa.link/fr8zl7
-LinkBehaviour_3A1E9EE5_2EF7_C91D_41B6_D321A1FF61E7.source = https://www.instagram.com/regionalburger/
-LinkBehaviour_3A1EDEE6_2EF7_C91F_41A7_7D9199E0CAA4.source = https://goo.gl/maps/aykRUWjqtoWLxfT9A
-LinkBehaviour_3F87F8AD_2EF3_C96D_41AA_144BCB52840E.source = https://wa.link/fr8zl7
-LinkBehaviour_3F8D001C_2EF0_B933_41B8_5F16BA226410.source = https://www.instagram.com/regionalburger/
-LinkBehaviour_3F9131E2_2EF0_DB14_41AB_73DF88A7B6C7.source = https://goo.gl/maps/aykRUWjqtoWLxfT9A
+LinkBehaviour_2302E583_30F8_6809_41A0_E96B061A133A.source = https://wa.link/7sy7um
+LinkBehaviour_23441043_30F9_E808_41C0_519FBCEA89CC.source = https://www.instagram.com/regionalburger/
+LinkBehaviour_23C9E2BA_30F8_687B_41C2_DCC2059B14E0.source = https://wa.link/7sy7um
+LinkBehaviour_23E2F80A_30F8_1818_41AB_DB5061B8AF59.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
+LinkBehaviour_23FE74B1_30F8_2808_41BE_FA893752C5BA.source = https://wa.link/7sy7um
+LinkBehaviour_23FE84AC_30F8_2818_41B5_B6E3C9156157.source = https://wa.link/7sy7um
+LinkBehaviour_23FEB4AF_30F8_2818_41BB_5B4505B21F65.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
+LinkBehaviour_23FF44AE_30F8_2818_41AD_DF04C55A782C.source = https://www.instagram.com/regionalburger/
